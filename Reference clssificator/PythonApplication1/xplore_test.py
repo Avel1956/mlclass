@@ -18,7 +18,7 @@ query.dataType('json')
 query.dataFormat('object')
 data = query.callAPI()
 
-
+# gittest
 write_json(data)
 print(data)
 
